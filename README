@@ -1,0 +1,12 @@
+
+
+This project's goal is to evaluate whether certain demographics can influence the AI tool a developer would use.
+
+Gotten from the Stack Overflow 2024 Survey, this dataset contain a high amount of specific developer information.
+
+Multiple hypothesis tests were ran to verify the demographical associaction to AI tool use
+    results:
+        Age-AI tool: associated
+        Education level- AI tool: associated
+        DEveloper Role-AI tool: associated
+        Years coding professionally-AI tool: at least one instance is associated
